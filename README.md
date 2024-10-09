@@ -44,5 +44,5 @@
 ## Laboratorium 1
 
 - [Lista zadań](lab01/lista-lab01.md)
-- [Prezentacja](ListaZadan/lab1/Lab1_Prezentacja)
+- [Prezentacja](lab01/prezentacja-lab01.pdf)
 
