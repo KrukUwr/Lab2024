@@ -43,6 +43,6 @@
 
 ## Laboratorium 1
 
-- [Lista zadań](ListaZadan/lab1/lista-lab1.md)
+- [Lista zadań](lab01/lista-lab01.md)
 - [Prezentacja](ListaZadan/lab1/Lab1_Prezentacja)
 
