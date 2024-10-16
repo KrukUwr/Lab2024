@@ -46,3 +46,7 @@
 - [Lista zadań](lab01/lista-lab01.md)
 - [Prezentacja](lab01/prezentacja-lab01.pdf)
 
+## Laboratorium 2
+
+- [Lista zadań](lab02/lista-lab02.md)
+
