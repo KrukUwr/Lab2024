@@ -49,4 +49,5 @@
 ## Laboratorium 2
 
 - [Lista zadań](lab02/lista-lab02.md)
+- [Prezentacja](lab01/prezentacja-lab02.pdf)
 
