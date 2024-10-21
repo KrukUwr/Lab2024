@@ -52,7 +52,7 @@
 - [Lista zadań](lab02/lista-lab02.md)
 - [Prezentacja](lab02/prezentacja-lab02.pdf)
 
-## Laboratorium 4
+## Laboratorium 4 - błąd prognozy: wydzielanie prób, kroswalidacja, bootstrap
 
 - [Lista zadań](lab04/04_ListaBłądPredykcji.md)
 
