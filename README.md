@@ -55,7 +55,7 @@
 ## Laboratorium 3
 
 - [Lista zadań](lab03/lista-lab03.md)
-- [Prezentacja](lab02/prezentacja-lab03.pdf)
+- [Prezentacja](lab03/prezentacja-lab03.pdf)
 
 ## Laboratorium 4 - błąd prognozy: wydzielanie prób, kroswalidacja, bootstrap
 
