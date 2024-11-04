@@ -22,7 +22,7 @@
 
 6. Na podstawie otrzymanych danych aplikacyjnych oceń, które z podejść pozwala na dokładniejszą prognozę odzysków polubownych portfela w pierwszych 12 miesiącach obsługi (przyjmujemy, że odzyski ugodowe to odzyski od miesiąca podpisania pierwszej ugody w sprawie):  
    * Odrębna prognoza odzysków przedugodowych i ugodowych. 
-   * Bezpoośrednia prognoza odzysków polubownych. 
+   * Bezpośrednia prognoza odzysków polubownych. 
 
 ---
 
