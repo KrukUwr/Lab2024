@@ -61,6 +61,6 @@
 
 - [Lista zadań](lab04/04_ListaBłądPredykcji.md)
 - [Prezentacja](lab04/Laboratorium4.pdf)
-
+- [Rozwiązania](lab04/Lab4_rozwiazania.pdf)
 
 
