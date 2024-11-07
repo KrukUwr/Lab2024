@@ -63,4 +63,4 @@
 - [Prezentacja](lab04/Laboratorium4.pdf)
 - [Rozwiązania](lab04/Lab4_rozwiazania.r)
 
-
+## Laboratorium 5 - omówienie projektów
