@@ -51,11 +51,13 @@
 
 - [Lista zadań](lab02/lista-lab02.md)
 - [Prezentacja](lab02/prezentacja-lab02.pdf)
+- [Rozwiązania](lab02/lab02_rozwiazania.R)
 
 ## Laboratorium 3
 
 - [Lista zadań](lab03/lista-lab03.md)
 - [Prezentacja](lab03/prezentacja-lab03.pdf)
+- [Rozwiązania](lab03/lab03_rozwiazania.R)
 
 ## Laboratorium 4 - błąd prognozy: wydzielanie prób, kroswalidacja, bootstrap
 
@@ -64,3 +66,9 @@
 - [Rozwiązania](lab04/Lab4_rozwiazania.r)
 
 ## Laboratorium 5 - omówienie projektów
+
+## Laboratorium 6 - Modele oparte na drzewach
+
+- [Lista zadań](lab06/lista-lab6.md)
+- [Prezentacja](lab06/prezentacja-lab06.pdf)
+
