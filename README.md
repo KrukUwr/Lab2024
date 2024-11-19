@@ -72,3 +72,7 @@
 - [Lista zadań](lab06/lista-lab6.md)
 - [Prezentacja](lab06/prezentacja-lab06.pdf)
 
+## Laboratorium 7 - Modele oparte na drzewach
+
+- [Lista zadań](lab07/lista-lab7.md)
+
