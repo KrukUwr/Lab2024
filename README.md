@@ -77,3 +77,7 @@
 
 - [Lista zadań](lab07/lista-lab7.md)
 
+## Laboratorium 8 - PCA, analiza czynnikowa
+
+- [Lista zadań](lab08/08listaPCA.md)
+
