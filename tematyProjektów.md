@@ -16,7 +16,7 @@
 
 ---
 
-5. Na podstawie otrzymanych danych oraz na podstawie cech aplikacyjnych opisujących sprawy, oszacuj potrzebną liczbę pracowników do obsługi zakupionego portfela.
+5. Na podstawie otrzymanych danych oraz na podstawie cech aplikacyjnych opisujących sprawy, oszacuj potrzebną liczbę wizyt bezpośrednich doradców finansowych do obsługi zakupionego portfela.
 
 ---
 
