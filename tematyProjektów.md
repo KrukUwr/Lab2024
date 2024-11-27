@@ -26,7 +26,7 @@
 
 ---
 
-7. Oszacuj model prognozujący wpłaty portfela w okresie pierwszych 12 miesięcy obsługi. Nastepnie sprawdź, czy istnieją cechy opisujące sprawy albo miary opsiujące wyniki zastosowania modelu, pozwalające oszacować dokładność prognozy portfela (odchylenia). 
+7. Oszacuj model prognozujący wpłaty portfela w okresie pierwszych 12 miesięcy obsługi. Nastepnie sprawdź, czy istnieją cechy opisujące sprawy albo miary opisujące wyniki zastosowania modelu, pozwalające oszacować dokładność prognozy portfela (odchylenia). 
 
 ---
 
