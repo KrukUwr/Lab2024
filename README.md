@@ -80,4 +80,10 @@
 ## Laboratorium 8 - PCA, analiza czynnikowa
 
 - [Lista zadań](lab08/08listaPCA.md)
+- [Prezentacja](lab08/08_PrezentacjaPCA.pdf)
+- [Rozwiązania](lab08/Lab8_rozwiazania.r)
+
+## Laboratorium 9 - regresja liniowa, analiza nieliniowości
+
+
 
