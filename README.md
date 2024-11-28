@@ -89,3 +89,6 @@
 
 - [Lista zadań](lab09/09_ListaRegresjaLiniowa.md)
 
+## Laboratorium 10 - dobór cech, sieci neuronowe, analiza ze sztucznymi portfelami
+
+- [Lista zadań](lab10/10_ListaDoborCech.md)
