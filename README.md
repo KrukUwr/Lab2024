@@ -87,5 +87,5 @@
 
 ## Laboratorium 9 - regresja liniowa, analiza nieliniowości
 
-- [Lista zadań](lab09/09ListaRegresjaLiniowa.md)
+- [Lista zadań](lab09/09_ListaRegresjaLiniowa.md)
 
