@@ -77,11 +77,13 @@
 
 - [Lista zadań](lab07/lista-lab7.md)
 
-## Laboratorium 8 - PCA, analiza czynnikowa
+## Laboratorium 8 - PCA, omówienie tematów projektów
 
 - [Lista zadań](lab08/08listaPCA.md)
 - [Prezentacja](lab08/08_PrezentacjaPCA.pdf)
 - [Rozwiązania](lab08/Lab8_rozwiazania.R)
+
+- [Omówienie tematów projektów](lab08/projekty_tablica.pdf)
 
 ## Laboratorium 9 - regresja liniowa, analiza nieliniowości
 
