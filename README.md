@@ -89,7 +89,7 @@
 
 - [Lista zadań](lab09/09_ListaRegresjaLiniowa.md)
 - [Prezentacja](lab09/09_PrezentacjaRegresja.pdf)
-- [Rozwiązania](lab09/Lab9_rozwiazania.r)
+- [Rozwiązania](lab09/09_ListaRozwiazania.r)
 
 ## Laboratorium 10 - dobór cech, sieci neuronowe, analiza ze sztucznymi portfelami
 
