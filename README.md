@@ -88,6 +88,8 @@
 ## Laboratorium 9 - regresja liniowa, analiza nieliniowości
 
 - [Lista zadań](lab09/09_ListaRegresjaLiniowa.md)
+- [Prezentacja](lab09/09_PrezentacjaRegresja.pdf)
+- [Rozwiązania](lab09/Lab9_rozwiazania.R)
 
 ## Laboratorium 10 - dobór cech, sieci neuronowe, analiza ze sztucznymi portfelami
 
