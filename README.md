@@ -94,3 +94,5 @@
 ## Laboratorium 10 - dobór cech, sieci neuronowe, analiza ze sztucznymi portfelami
 
 - [Lista zadań](lab10/10_ListaDoborCech.md)
+- [Rozwiązania](lab10/10_Lista_rozwiazania.R)
+- [Rozwiązania_NN_portfele](lab10/10_ListaNN_rozwiazania.R)
