@@ -97,7 +97,7 @@
 - [Rozwiązania](lab10/10_Lista_rozwiazania.r)
 - [Rozwiązania_NN_portfele](lab10/10_ListaNN_rozwiazania.r)
 
-## Laboratorium 11 - GLM-Logit, IV, WoE
+## Laboratorium 11 - GLM-Logit, IV, WoE, analiza nieliniowości
 
 - [Lista zadań](lab11/11_ListaGLM.md)
 
