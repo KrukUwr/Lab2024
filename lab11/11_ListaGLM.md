@@ -27,11 +27,11 @@ Sprawdź siłę predykcyjną wszystkich cech za pomocą współczynnika IV (Info
 
 ## Zadanie 3
 
-Przekoduj zmienne na WoE.
+Przekoduj zmienne na WoE. Spróbuj uwzględnić nieliniowy charakter cech w ramach liniowego modelu GLM-Logit.
 
 ## Zadanie 4
 
-Zbuduj kilka wersji modeli metodą regresji logistycznej (np. zmieniając predyktory, uwględniając wagi).
+Zbuduj kilka wersji modeli metodą regresji logistycznej (np. zmieniając predyktory, uwzględniając wagi).
 
 ## Zadanie 5
 
