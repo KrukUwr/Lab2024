@@ -1,3 +1,4 @@
+
 # Modelowanie Statystyczne w Zarządzaniu Wierzytelnościami Masowymi
 
 <br>
@@ -31,7 +32,7 @@
 
 >- **7.11** - Laboratoria - omówienie tematów projektów.
 >- Do **5.12** grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
->- **23.01** - Laboratoria - konsultacje.
+>- **16.01, 23.01** - Laboratoria - konsultacje.
 >- **28.01, 30.01** - Prezentacje projektów.
 
 <br>
@@ -97,11 +98,11 @@
 - [Rozwiązania](lab10/10_Lista_rozwiazania.r)
 - [Rozwiązania_NN_portfele](lab10/10_ListaNN_rozwiazania.r)
 
-## Laboratorium 11 - GLM-Logit, IV, WoE, analiza nieliniowości
+## Laboratorium 11 - GLM-Logit, GAM-Logit, IV, WoE, analiza nieliniowości
 
 - [Lista zadań](lab11/11_ListaGLM.md)
 - [Rozwiązania](lab11/11_ListaRozwiazania.r)
 
-## Laboratorium 12 - GAM, GAM-Logit, portfele, concurvity, porównywanie klasyfikatorów
+## Laboratorium 12 - konsultacje, GAM, GAM-Logit, portfele, concurvity, porównywanie klasyfikatorów
 
 - [Lista zadań](lab12/12_ListaGAM.md)
