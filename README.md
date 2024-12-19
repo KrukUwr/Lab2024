@@ -104,4 +104,4 @@
 
 ## Laboratorium 12 - GAM, GAM-Logit, portfele, concurvity, porównywanie klasyfikatorów
 
-- [Lista zadań](ListaZadan/lab12/12_ListaGAM.md)
+- [Lista zadań](lab12/12_ListaGAM.md)
