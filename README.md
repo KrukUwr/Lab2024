@@ -100,4 +100,4 @@
 ## Laboratorium 11 - GLM-Logit, IV, WoE, analiza nieliniowości
 
 - [Lista zadań](lab11/11_ListaGLM.md)
-- [Rozwiązania](lab11/11_Lista_rozwiazania.r)
+- [Rozwiązania](lab11/11_ListaRozwiazania.r)
