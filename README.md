@@ -106,3 +106,5 @@
 ## Laboratorium 12 - konsultacje, GAM, GAM-Logit, portfele, concurvity, porównywanie klasyfikatorów
 
 - [Lista zadań](lab12/12_ListaGAM.md)
+
+## Laboratorium 13 - konsultacje
