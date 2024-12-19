@@ -101,3 +101,7 @@
 
 - [Lista zadań](lab11/11_ListaGLM.md)
 - [Rozwiązania](lab11/11_ListaRozwiazania.r)
+
+## Laboratorium 12 - GAM, GAM-Logit, portfele, concurvity, porównywanie klasyfikatorów
+
+- [Lista zadań](ListaZadan/lab12/12_ListaGAM.md)
