@@ -107,6 +107,6 @@
 
 - [Lista zadań](lab12/12_ListaGAM.md)
 - [Prezentacja](lab12/13_PrezentacjaPorownywanie.pdf)
-- [Rozwiązania](lab12/12_ListaRozwiazania.r)
+- [Rozwiązania](lab12/12_ListaRozwiazania.R)
 
 ## Laboratorium 13 - konsultacje
